@@ -56,21 +56,8 @@ Heuristic-based risk score generator using inflow/outflow patterns and entity pr
 🔁 **API Orchestrator with Backoff & Key Rotation**  
 Resilient API layer in Go with exponential backoff, circuit breaking, and multiple API key load balancing.
 
-> 🔒 Production systems I built at work are private — these repos are clean demo versions of concepts I’ve worked on.
+> 🔒 Production systems I built at work are private
 
----
-
-## 📝 Articles & Notes
-
-I sometimes write about:
-
-- UTXO clustering & heuristics  
-- blockchain forensics basics  
-- building indexers & ETL pipelines  
-- graph modeling in Neo4j  
-- Go concurrency patterns
-
-(coming soon in `/notes` or `/articles`)
 
 ---
 
